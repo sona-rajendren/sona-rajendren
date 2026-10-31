@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:0891B2&height=170&section=header&text=Sona%20Rajendren&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Sona Rajendren"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=30&lines=Hi+all+I'm+Sona,;Aspiring+Data+Analyst+%7C+AI%2FML+Enthusiast;Python+%7C+Data+Analytics+%7C+Machine+Learning;Turning+Data+Into+Actionable+Insights" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=30&lines=Hey+all+%F0%9F%91%8B%F0%9F%8F%BB;Aspiring+Data+Analyst+%7C+AI%2FML+Enthusiast;Python+%7C+Data+Analytics+%7C+Machine+Learning;Turning+Data+Into+Actionable+Insights" alt="Typing animation"/>
 <br/>
 <br/>
 </br>
