@@ -117,10 +117,8 @@ I use **Python, SQL, and machine learning** to explore data, build visualization
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sona-rajendren&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sona-rajendren&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sona-rajendren&theme=tokyonight" alt="Profile details"/>
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sona-rajendren&theme=tokyonight" alt="Top languages"/>
 </div>
 
 <br/>
