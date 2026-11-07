@@ -106,7 +106,7 @@ I use **Python, SQL, and machine learning** to explore data, build visualization
 <div align="center">
 
 ![Cert](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-Prompt%20Design%20in%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)<br/>
-![Cert](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-Inspect%20Rich%20Documents%20with%20Gemini%20Multimodality%20and%20Multimodal%20RAG-4285F4?style=flat-square&logo=googlecloud&logoColor=white)<br/>
+![Cert](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-Inspect%20Rich%20Documents%20with%20Gemini%20Multimodality%20and%20Multimodal%20RAG-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)<br/>
 ![Cert](https://img.shields.io/badge/NPTEL-Knowledge%20Management-D32F2F?style=for-the-badge)<br/>
 ![Hackathon](https://img.shields.io/badge/PromptWars%20%C3%97%20Gen%20AI%20Club%20Hackathon-ScamGuard%20Pro-6D28D9?style=for-the-badge)
 
